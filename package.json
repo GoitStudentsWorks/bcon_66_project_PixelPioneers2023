@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "bcon_66_project_PixelPioneers2023",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-PixelPioneers2023/",
+    "build": "vite build --base=/bcon_66_project_PixelPioneers2023/",
     "preview": "vite preview"
   },
   "devDependencies": {
